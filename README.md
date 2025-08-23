@@ -2,7 +2,7 @@
 <!-- Minimal GitHub Profile Frontend for iigal -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/10431112?v=4" width="120" alt="iigal avatar" />
+  <img src="https://diplomatnepal.com/wp-content/uploads/2025/06/er-shashank-neupane-receives-presidents-award-from-westcliff-university.jpg" width="480" alt="Shashank Shree Neupane" />
   <h1 align="center">Hi, I'm iigal 👋</h1>
 </p>
 
