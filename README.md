@@ -49,8 +49,6 @@
 
 ### 🤝 Connect
 
-- [GitHub](https://github.com/iigal)
-- [Twitter](https://twitter.com/ShashankShree)
-- [Website](https://neupane.com.np)
+[GitHub](https://github.com/iigal) | [Twitter](https://twitter.com/ShashankShree) | [Website](https://neupane.com.np)
 
 ---
