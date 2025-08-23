@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iigal&show_icons=true&hide_border=true&count_private=true&theme=default" alt="iigal GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iigal&theme=default" alt="iigal GitHub streak" />
-  <br/>
+| 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigal&layout=compact&hide_border=true&theme=default" alt="iigal languages" />
 </p>
 
