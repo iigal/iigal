@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://diplomatnepal.com/wp-content/uploads/2025/06/er-shashank-neupane-receives-presidents-award-from-westcliff-university.jpg" width="480" alt="Shashank Shree Neupane" />
-  <h1 align="center">Hi, I'm iigal 👋</h1>
+  <h1 align="center">Hi, I'm Shashank Shree Neupane. 👋</h1>
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@
 
 - 💻 I build minimalistic web projects & contribute on GitHub
 - 🌍 Location: Kathmandu, Nepal
+- 🤝 Connect: [Email](mailto:shashank@neupane.com.np) | [Twitter](https://twitter.com/ShashankShreeN) | [Website](https://neupane.com.np)
 ---
 
 ### 🛠️ Skills
@@ -45,10 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigal&layout=compact&hide_border=true&theme=default" alt="iigal languages" />
 </p>
 
----
-
-### 🤝 Connect
-
-[GitHub](https://github.com/iigal) | [Twitter](https://twitter.com/ShashankShree) | [Website](https://neupane.com.np)
-
----
