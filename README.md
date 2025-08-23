@@ -25,7 +25,7 @@
 
 - 💻 I build minimalistic web projects & contribute on GitHub
 - 🌍 Location: Kathmandu, Nepal
-- 🤝 Connect: [Email](mailto:shashank@neupane.com.np) | [Twitter](https://twitter.com/ShashankShreeN) | [Website](https://neupane.com.np)
+- 🤝 Connect: [Email](mailto:shashank@neupane.com.np) | [Twitter](https://twitter.com/ShashankShreeN) | [Website](https://neupane.com.np) | [Linkedin](https://www.linkedin.com/in/shashank-shree-neupane/)
 ---
 
 ### 🛠️ Skills
@@ -40,9 +40,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iigal&show_icons=true&hide_border=true&count_private=true&theme=default" alt="iigal GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigal&layout=compact&hide_border=true&theme=default" alt="iigal languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iigal&theme=default" alt="iigal GitHub streak" />
-| 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigal&layout=compact&hide_border=true&theme=default" alt="iigal languages" />
+  
 </p>
 
