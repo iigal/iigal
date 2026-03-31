@@ -2,7 +2,7 @@
 <!-- Minimal GitHub Profile Frontend for iigal -->
 
 <p align="center">
-  <img src="https://neupane.com.np/wp-content/uploads/2026/03/profile-picture.jpg" width="480" alt="Shashank Shree Neupane" />
+  <img src="https://neupane.com.np/wp-content/uploads/2026/03/cover-picture.jpg" width="480" alt="Shashank Shree Neupane" />
   <h1 align="center">Hi, I'm Shashank Shree Neupane. 👋</h1>
 </p>
 
